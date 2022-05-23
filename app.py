@@ -7,3 +7,5 @@ print('glory')
 print('landmark')
 # echo simon
 # bugs remove
+print("car services automated")
+print("hello $user you need servicing")
