@@ -1,7 +1,5 @@
-#List of Devops Engineers
-simon
+#List of Devops Engineer
 okey
-sylvia
 Eric
 Evolie
 Landmark
